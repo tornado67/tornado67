@@ -19,11 +19,8 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+    - :telescope: I’m working as a DevOps Engineer. My Main contributios are automation and CI/CD
+    - :seedling: Exploring IoT & Startup entrepreneurship.
+    - :zap: In my free time, I code, go outside and code or listen to music and play Cyberpunk 2077
+    - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aleksei-ruzhitskii-6a025419a)
 </div>
-
-- :telescope: I’m working as a DevOps Engineer. My Main contributios are automation and CI/CD
-
-- :seedling: Exploring IoT & Startup entrepreneurship.
-
-- :zap: In my free time, I code, go outside and code or listen to music and play Cyberpunk 2077
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aleksei-ruzhitskii-6a025419a)
