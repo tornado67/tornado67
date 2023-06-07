@@ -29,7 +29,7 @@
 
 I am a DevOps <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the Earth.
 
-- :telescope: I’m working as a DevOps Engineer. My Main contributios are automation, Kubernetes and CI/CD
+- :telescope: My Main contributios are automation, Kubernetes and CI/CD
 
 - :seedling: Exploring IoT & Startup entrepreneurship.
 
