@@ -27,7 +27,7 @@
 
 :wave:
 
-I am a DevOps <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the Earth.
+I am a DevOps <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/> from the Earth.
 
 :telescope: My Main contributios are automation, Kubernetes and CI/CD
 
