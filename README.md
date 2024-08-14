@@ -11,7 +11,7 @@
    <img src="https://komarev.com/ghpvc/?username=tornado67&style=flat-square&color=blue" alt=""/>
 
    <h1>
-       hey there
+       Hello Brave new World! 
        <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
    </h1>
 
@@ -31,7 +31,7 @@ I am a DevOps <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.g
 
 
 
-:telescope: My Main contributios are automation, Kubernetes and CI/CD
+:telescope: My main contributios are automation, Kubernetes, CI/CD and some hobby IoT/ESP32/Arduino projects.
 
 
 
@@ -39,7 +39,7 @@ I am a DevOps <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.g
 
 
 
-:zap: In my free time, I code, go outside and code or listen to music and play Cyberpunk 2077
+:zap: In my free time, I code, go outside and code or listen to all kinds of music and play Cyberpunk 2077
 
 
 
