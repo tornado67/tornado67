@@ -1,29 +1,45 @@
 <div id="header" align="center">
-  <img src="https://i.gifer.com/origin/43/434c59f2931b9d274307c227bde36b2d_w200.gif" width="120"/>
-  
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/aleksei-ruzhitskii-6a025419a">
-      <img src="https://img.shields.io/badge/LinkedIn-%230072b1.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> 
-    </a>
-    <a href="https://github.com/tornado67">
-      <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/> 
-    </a>
-  </div>
+   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 
-  <img src="https://komarev.com/ghpvc/?username=tornado67&style=for-the-badge&color=cyan" alt="profile views counter"/>
+   <div id="badges">
+       <a href="https://www.linkedin.com/in/aleksei-ruzhitskii-6a025419a">
+           <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge/> 
+       </a>
+   </div>
 
-  <h1>
-    <span style="color:#00ffee;">Hello, Brave New World!</span> 
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
-  </h1>
+   <img src="https://komarev.com/ghpvc/?username=tornado67&style=flat-square&color=blue" alt=""/>
+
+   <h1>
+       Hello Brave new World! 
+       <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+   </h1>
+
 </div>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>    
+</div>
 ---
 
-## **🦾 About Me**
-```diff
-+ DevOps, Cloud & Automation Enthusiast 🚀
-+ Cyberpunk Visionary, Code Alchemist & Hacker by Night 💻
-+ Kubernetes | Helm| AWS | GCP | CI/CD | Terraform | Python | Bash | PowerShell | Ansible | ESP32 | IoT 🛰️
-+ Startup Adventurer, Always Exploring New Tech 🦾
-- Debugging Reality...
+### :man_technologist: About Me :
+
+
+:wave:
+
+I am a DevOps <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/> from the Earth.
+
+
+
+:telescope: My main contributios are automation, Kubernetes, CI/CD and some hobby IoT/ESP32/Arduino projects.
+
+
+
+:seedling: Exploring IoT & Startup entrepreneurship.
+
+
+
+:zap: In my free time, I code, go outside and code or listen to all kinds of music and play Cyberpunk 2077
+
+
+
+:mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aleksei-ruzhitskii-6a025419a) 
